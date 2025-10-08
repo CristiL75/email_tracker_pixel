@@ -1,0 +1,302 @@
+{
+  "test_good:google-analytics\\.com": {
+    "syntax": {
+      "pattern": "google-analytics\\.com",
+      "source": "test_good",
+      "stage": "syntax",
+      "passed": true,
+      "score": 0.9978219990693034,
+      "details": {
+        "compile_time_ms": 0.08560018613934517,
+        "complexity_score": 0.9965,
+        "format_issues": [],
+        "pattern_length": 21
+      },
+      "duration_ms": 0.09894371032714844,
+      "timestamp": 1759921144.1053002
+    },
+    "performance": {
+      "pattern": "google-analytics\\.com",
+      "source": "test_good",
+      "stage": "performance",
+      "passed": true,
+      "score": 0.49990546875,
+      "details": {
+        "avg_match_time_ns": 189.0625,
+        "max_match_time_ns": 1600,
+        "total_matches": 5,
+        "urls_tested": 320,
+        "time_score": 0.9998109375,
+        "consistency_score": 0.0
+      },
+      "duration_ms": 0.20623207092285156,
+      "timestamp": 1759921144.1055133
+    },
+    "false_positive": {
+      "pattern": "google-analytics\\.com",
+      "source": "test_good",
+      "stage": "false_positive",
+      "passed": true,
+      "score": 0.7166666666666667,
+      "details": {
+        "false_positive_rate": 0.0,
+        "true_positive_rate": 0.05555555555555555,
+        "false_positives_count": 0,
+        "true_positives_count": 3,
+        "false_positive_examples": [],
+        "fp_score": 1.0,
+        "tp_score": 0.05555555555555555
+      },
+      "duration_ms": 0.06961822509765625,
+      "timestamp": 1759921144.1055863
+    },
+    "community": {
+      "pattern": "google-analytics\\.com",
+      "source": "test_good",
+      "stage": "community",
+      "passed": false,
+      "score": 0.5,
+      "details": {
+        "domains_analyzed": 0,
+        "avg_community_score": 0.5,
+        "avg_threat_intel_score": 0.5,
+        "domains_sample": []
+      },
+      "duration_ms": 0.1537799835205078,
+      "timestamp": 1759921144.1057441
+    }
+  },
+  "test_bad_performance:.*.*.*": {
+    "syntax": {
+      "pattern": ".*.*.*",
+      "source": "test_bad_performance",
+      "stage": "syntax",
+      "passed": false,
+      "score": 0.8659391678447524,
+      "details": {
+        "compile_time_ms": 0.0454997643828392,
+        "complexity_score": 0.7323333333333333,
+        "format_issues": [
+          "Multiple greedy quantifiers"
+        ],
+        "pattern_length": 6
+      },
+      "duration_ms": 0.0553131103515625,
+      "timestamp": 1759921144.1063235
+    }
+  },
+  "test_false_positive:gmail\\.com": {
+    "syntax": {
+      "pattern": "gmail\\.com",
+      "source": "test_false_positive",
+      "stage": "syntax",
+      "passed": true,
+      "score": 0.9989601668405036,
+      "details": {
+        "compile_time_ms": 0.0412999652326107,
+        "complexity_score": 0.9983333333333333,
+        "format_issues": [],
+        "pattern_length": 10
+      },
+      "duration_ms": 0.048160552978515625,
+      "timestamp": 1759921144.1065602
+    },
+    "performance": {
+      "pattern": "gmail\\.com",
+      "source": "test_false_positive",
+      "stage": "performance",
+      "passed": true,
+      "score": 0.49990953125,
+      "details": {
+        "avg_match_time_ns": 180.9375,
+        "max_match_time_ns": 800,
+        "total_matches": 5,
+        "urls_tested": 320,
+        "time_score": 0.9998190625,
+        "consistency_score": 0.0
+      },
+      "duration_ms": 0.16736984252929688,
+      "timestamp": 1759921144.106731
+    },
+    "false_positive": {
+      "pattern": "gmail\\.com",
+      "source": "test_false_positive",
+      "stage": "false_positive",
+      "passed": false,
+      "score": 0.0,
+      "details": {
+        "false_positive_rate": 0.021739130434782608,
+        "true_positive_rate": 0.0,
+        "false_positives_count": 4,
+        "true_positives_count": 0,
+        "false_positive_examples": [
+          "https://gmail.com/",
+          "https://www.gmail.com/index.html",
+          "https://gmail.com/contact.php",
+          "https://mail.gmail.com/inbox"
+        ],
+        "fp_score": 0.0,
+        "tp_score": 0.0
+      },
+      "duration_ms": 0.060558319091796875,
+      "timestamp": 1759921144.1067944
+    },
+    "community": {
+      "pattern": "gmail\\.com",
+      "source": "test_false_positive",
+      "stage": "community",
+      "passed": false,
+      "score": 0.5,
+      "details": {
+        "domains_analyzed": 0,
+        "avg_community_score": 0.5,
+        "avg_threat_intel_score": 0.5,
+        "domains_sample": []
+      },
+      "duration_ms": 0.006198883056640625,
+      "timestamp": 1759921144.106804
+    }
+  },
+  "test_ublock_format:||doubleclick.net^": {
+    "syntax": {
+      "pattern": "||doubleclick.net^",
+      "source": "test_ublock_format",
+      "stage": "syntax",
+      "passed": true,
+      "score": 0.9815833337580164,
+      "details": {
+        "compile_time_ms": 0.049999915063381195,
+        "complexity_score": 0.9636666666666667,
+        "format_issues": [],
+        "pattern_length": 18
+      },
+      "duration_ms": 0.05650520324707031,
+      "timestamp": 1759921144.1070564
+    },
+    "performance": {
+      "pattern": "||doubleclick.net^",
+      "source": "test_ublock_format",
+      "stage": "performance",
+      "passed": true,
+      "score": 0.4998215625,
+      "details": {
+        "avg_match_time_ns": 356.875,
+        "max_match_time_ns": 2600,
+        "total_matches": 320,
+        "urls_tested": 320,
+        "time_score": 0.999643125,
+        "consistency_score": 0.0
+      },
+      "duration_ms": 0.22411346435546875,
+      "timestamp": 1759921144.107285
+    },
+    "false_positive": {
+      "pattern": "||doubleclick.net^",
+      "source": "test_ublock_format",
+      "stage": "false_positive",
+      "passed": false,
+      "score": 0.3,
+      "details": {
+        "false_positive_rate": 1.0,
+        "true_positive_rate": 1.0,
+        "false_positives_count": 184,
+        "true_positives_count": 54,
+        "false_positive_examples": [
+          "https://google.com/",
+          "https://www.google.com/index.html",
+          "https://google.com/contact.php",
+          "https://mail.google.com/inbox",
+          "https://bbc.com/"
+        ],
+        "fp_score": 0.0,
+        "tp_score": 1.0
+      },
+      "duration_ms": 0.102996826171875,
+      "timestamp": 1759921144.1073923
+    },
+    "community": {
+      "pattern": "||doubleclick.net^",
+      "source": "test_ublock_format",
+      "stage": "community",
+      "passed": true,
+      "score": 0.7,
+      "details": {
+        "domains_analyzed": 1,
+        "avg_community_score": 0.5,
+        "avg_threat_intel_score": 0.9,
+        "domains_sample": [
+          "doubleclick.net"
+        ]
+      },
+      "duration_ms": 0.0362396240234375,
+      "timestamp": 1759921144.107432
+    }
+  },
+  "test_tracking_pattern:track\\.(gif|png|jpg)": {
+    "syntax": {
+      "pattern": "track\\.(gif|png|jpg)",
+      "source": "test_tracking_pattern",
+      "stage": "syntax",
+      "passed": true,
+      "score": 0.9771960000135005,
+      "details": {
+        "compile_time_ms": 0.06079999729990959,
+        "complexity_score": 0.955,
+        "format_issues": [],
+        "pattern_length": 20
+      },
+      "duration_ms": 0.06747245788574219,
+      "timestamp": 1759921144.1077654
+    },
+    "performance": {
+      "pattern": "track\\.(gif|png|jpg)",
+      "source": "test_tracking_pattern",
+      "stage": "performance",
+      "passed": true,
+      "score": 0.49993203125,
+      "details": {
+        "avg_match_time_ns": 135.9375,
+        "max_match_time_ns": 600,
+        "total_matches": 0,
+        "urls_tested": 320,
+        "time_score": 0.9998640625,
+        "consistency_score": 0.0
+      },
+      "duration_ms": 0.14638900756835938,
+      "timestamp": 1759921144.1079144
+    },
+    "false_positive": {
+      "pattern": "track\\.(gif|png|jpg)",
+      "source": "test_tracking_pattern",
+      "stage": "false_positive",
+      "passed": true,
+      "score": 0.7999999999999999,
+      "details": {
+        "false_positive_rate": 0.0,
+        "true_positive_rate": 0.3333333333333333,
+        "false_positives_count": 0,
+        "true_positives_count": 18,
+        "false_positive_examples": [],
+        "fp_score": 1.0,
+        "tp_score": 0.3333333333333333
+      },
+      "duration_ms": 0.0553131103515625,
+      "timestamp": 1759921144.107972
+    },
+    "community": {
+      "pattern": "track\\.(gif|png|jpg)",
+      "source": "test_tracking_pattern",
+      "stage": "community",
+      "passed": false,
+      "score": 0.5,
+      "details": {
+        "domains_analyzed": 0,
+        "avg_community_score": 0.5,
+        "avg_threat_intel_score": 0.5,
+        "domains_sample": []
+      },
+      "duration_ms": 0.005245208740234375,
+      "timestamp": 1759921144.1079795
+    }
+  }
+}

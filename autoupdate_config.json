@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "validation_enabled": true,
+  "auto_rollback": true,
+  "max_rollback_attempts": 3,
+  "performance_threshold": 2.0,
+  "false_positive_threshold": 0.001,
+  "health_check_interval": 300,
+  "pattern_refresh_interval": 3600,
+  "emergency_stop": false
+}

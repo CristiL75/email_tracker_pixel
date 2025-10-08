@@ -1,0 +1,54 @@
+{
+  "commit_id": "abfffab272267a7cdb8932d2047db692c6cc3a7c70fab7d8d7f52c749d197385",
+  "parent_id": "2539c095a523deec433eb94a31602618f6fe4752141bbce56c161975317a2169",
+  "timestamp": 1759921150.2677462,
+  "author": "auto-update",
+  "message": "Add new trackers and adguard patterns",
+  "changes": {
+    "type": "update",
+    "patterns_added": 3,
+    "patterns_removed": 0,
+    "patterns_modified": 0,
+    "sources_modified": [
+      "ublock",
+      "adguard"
+    ],
+    "details": {
+      "ublock": {
+        "added": [
+          "||newtracker.com^"
+        ],
+        "removed": [],
+        "added_count": 1,
+        "removed_count": 0
+      },
+      "adguard": {
+        "added": [
+          "malware.net",
+          "spyware.com"
+        ],
+        "removed": [],
+        "added_count": 2,
+        "removed_count": 0
+      }
+    }
+  },
+  "pattern_snapshot": {
+    "ublock": [
+      "||tracker1.com^",
+      "||tracker2.com^",
+      "||newtracker.com^"
+    ],
+    "easyprivacy": [
+      "tracking.example.com",
+      "analytics.test.com"
+    ],
+    "adguard": [
+      "spyware.com",
+      "malware.net"
+    ]
+  },
+  "validation_results": null,
+  "rollback_safe": true,
+  "branch": "main"
+}

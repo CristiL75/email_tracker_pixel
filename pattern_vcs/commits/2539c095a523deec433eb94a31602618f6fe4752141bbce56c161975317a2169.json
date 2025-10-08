@@ -1,0 +1,50 @@
+{
+  "commit_id": "2539c095a523deec433eb94a31602618f6fe4752141bbce56c161975317a2169",
+  "parent_id": "33c2434aa600d3e7a695622b0ef414db8da1f8737e06135995a79490f4890612",
+  "timestamp": 1759921150.2556999,
+  "author": "test-user",
+  "message": "Add test tracking patterns",
+  "changes": {
+    "type": "update",
+    "patterns_added": 4,
+    "patterns_removed": 0,
+    "patterns_modified": 0,
+    "sources_modified": [
+      "easyprivacy",
+      "ublock"
+    ],
+    "details": {
+      "easyprivacy": {
+        "added": [
+          "analytics.test.com",
+          "tracking.example.com"
+        ],
+        "removed": [],
+        "added_count": 2,
+        "removed_count": 0
+      },
+      "ublock": {
+        "added": [
+          "||tracker2.com^",
+          "||tracker1.com^"
+        ],
+        "removed": [],
+        "added_count": 2,
+        "removed_count": 0
+      }
+    }
+  },
+  "pattern_snapshot": {
+    "ublock": [
+      "||tracker1.com^",
+      "||tracker2.com^"
+    ],
+    "easyprivacy": [
+      "tracking.example.com",
+      "analytics.test.com"
+    ]
+  },
+  "validation_results": null,
+  "rollback_safe": true,
+  "branch": "main"
+}

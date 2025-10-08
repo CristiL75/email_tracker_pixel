@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "created": 1759921150.225004,
+  "default_branch": "main",
+  "auto_rollback": true,
+  "max_commits": 1000,
+  "retention_days": 365
+}
