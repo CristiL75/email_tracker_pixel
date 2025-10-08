@@ -1,0 +1,1 @@
+# Scripts module pentru email tracking pixel detector

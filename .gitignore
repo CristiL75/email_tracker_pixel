@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Project specific
+cache/*.json
+cache/*.txt
+reports/json/*.json
+reports/dashboards/*.png
+reports/bulk_analysis/*.json
+reports/trends/*.json
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+temp/
+tmp/
+
+# Sensitive data
+config/secrets.json
+*.key
+*.pem
+
+# Test outputs
+test_outputs/

@@ -1,0 +1,26 @@
+Return-Path: <newsletter@example.com>
+From: "Newsletter" <newsletter@example.com>
+To: user@example.com
+Subject: Your Weekly Newsletter
+Date: Tue, 08 Oct 2025 11:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Weekly Newsletter</h1>
+    
+    <p>Here's your weekly update!</p>
+    
+    <!-- Traditional HTML tracking pixels -->
+    <img src="https://email.example.com/track/open/abc123" width="1" height="1">
+    <img src="https://pixel.example.com/p.gif?id=newsletter123&user=user@example.com" width="1" height="1" style="display:none;">
+    <img src="https://analytics.example.com/beacon.png?campaign=weekly&subscriber=user123" style="width:1px;height:1px;">
+    
+    <p>Read more at our website!</p>
+    
+    <!-- More tracking -->
+    <img src="https://track.example.com/email/opened?id=abc123456789" width="1" height="1" border="0">
+</body>
+</html>

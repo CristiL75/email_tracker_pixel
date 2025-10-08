@@ -1,0 +1,41 @@
+{
+  "version": "2.0",
+  "last_updated": 1759919739,
+  "sources": {
+    "github_open_source": {
+      "enabled": true,
+      "priority": "high",
+      "domains_count": 14658,
+      "url_patterns_count": 571,
+      "css_patterns_count": 1168,
+      "sources_processed": 13,
+      "description": "Comprehensive open source tracking protection rules from GitHub"
+    },
+    "easyprivacy": {
+      "enabled": true,
+      "priority": "high",
+      "description": "Community-maintained privacy protection list"
+    },
+    "mailtrackerblocker": {
+      "enabled": true,
+      "priority": "medium",
+      "description": "Email tracking protection patterns"
+    },
+    "uglyemail": {
+      "enabled": true,
+      "priority": "medium",
+      "description": "Email service tracking detection"
+    },
+    "phishtank": {
+      "enabled": true,
+      "priority": "high",
+      "description": "Real-time phishing domain intelligence"
+    }
+  },
+  "pattern_extraction": {
+    "dynamic_only": true,
+    "hardcoded_patterns": false,
+    "open_source_only": true,
+    "auto_update": true
+  }
+}

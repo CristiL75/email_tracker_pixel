@@ -1,0 +1,1168 @@
+#CIPAConsentNotice:style(visibility: hidden !important;)
+#__tealiumGDPRcpPrefs:style(visibility: hidden !important;)
+#ad-container:style(display: block !important;)
+#appconsent:style(visibility: hidden !important;)
+#cmp-style-reset
+#cmp_consent_wall:style(visibility: hidden !important;)
+#comment-section:style(display: block !important;)
+#didomi-host:style(visibility: hidden !important;)
+#fluid_video_wrapper_video-page-player:remove-attr(style)
+#gameEtTopRight.commonEt:style(height: 0 !important;)
+#gamelistCategories:style(margin-bottom: auto !important;)
+#header:style(position: inherit !important;)
+#iubenda-cs-banner:style(visibility: hidden !important; opacity: 0 !important;)
+#iubenda-cs-banner:style(visibility: hidden !important;)
+#kick__pur__layer:has(a[href][onclick="ov.cmp.acceptAllConsents()"]):style(visibility: hidden !important;)
+#logoContainer:style(top: 0px !important;)
+#mms-consent-portal-container:style(visibility: hidden !important;)
+#nn_bfa_wrapper + .container:style(margin-top: 50px !important;)
+#o_carrepub:style(height: 1px; margin: 0; min-height: auto; visibility: hidden; width: 1px;)
+#onetrust-consent-sdk:style(visibility: collapse !important;)
+#page-header > header:style(position: absolute !important;)
+#ulCommentWidget[style*="display"]:style(display: block !important;)
+#video-page-player-blocker:style(pointer-events:none)
+#ymm-sub-nav:style(top:0px !important)
+%2F%2Flinks.*.com%2Fe%2Feo%3F_t%3D$image
+%2F%2Flinks1.*.com%2Fq%2F*$image
+%2F%2Fp.liadm.com%2Fimp%3Fs%3D$image
+%2FCI0%2F0$image
+%2Fcmail.bitcasino.io%2F$image
+%2Fcomm.coinbase.com%2F$image
+%2Fdedxk.r.ag.d.sendibm3.com%2F$image
+%2Fe3t%2FCto%2FRK$image
+%2Felink.membership.cgv.vn%2Fvtrack$image
+%2Feos%2Fv1%2F$image
+%2Fgp%2Fr.html%3FC%3D*%26ref_%3Dpe_*_open$image
+%2Fo.gif%3Fmi_u%3D$image
+%2Fopen.aspx$image
+%2Fp%2Frp%2F*%3Fmi_u%3D$image
+%2Fpixel%3Fc%3D$image
+%2Fplatform-collector.viki.com%2Femail%2F$image
+%2Fpub%2Fas%3F_ri_%3D$image
+%2Fq%2F*~~%2F$image
+%2Fr%2F%3Fid%3D$image
+%2Fs%2Feo%2F$image
+%2Fsenp.png%3F$image
+%2Ft1.*.sbs.com.au%2Fr%2F%3Fid%3D$image
+%2Ftf%2Fo%2F$image
+%2Ftrack%2Fopen.php%3Fu%3D$image
+%2Ftracking.mail.shopee.$image
+%2Ftracking.vegasgems.com%2F$image
+%2Ftwitter.com%2Fscribe%2Fibis%3F$image
+%2Fwf%2Fopen%3Fupn%3D$image
+%2Fwindscribe.com%2Fpixel%3F$image
+%3A%2F%2Fe.*%2Fopen%3F$image
+%3A%2F%2Fmucp.api.account.microsoft.com%2Fm%2Fv2%2Fv%3Fd%3D$image
+&ga_blocked=$image
+*$image,css,3p,xhr,domain=thepiratebay.org,badfilter
+*$image,domain=asfan.as.com,redirect-rule=1x1.gif
+*$image,domain=gouachebags.com,redirect-rule=1x1.gif
+*$image,domain=novelgames.com,redirect-rule=1x1.gif
+*$image,redirect-rule=1x1.gif,domain=cadenaser.com
+*$image,redirect-rule=1x1.gif,domain=go-girl.com
+*$script,image,css,frame,3p,domain=animetrick.com,badfilter
+*.gif$image,redirect=1x1.gif,domain=holybooks.com,important
+*/b/ss/*&aqe=$image,redirect=1x1.gif
++js(href-sanitizer, a[href^="https://go.skimresources.com/"][href*="&url=http"], ?url)
++js(noeval-if, /07c225f3\.online|content-loader\.com|css-load\.com|html-load\.com/)
++js(nostif, error-report.com)
++js(ra, class|style, div[id^="los40_gpt"])
++js(set-attr, ':is(.watch-on-link-logo, li.post) img.ezlazyload[src^="data:image"][data-ezsrc]', src, [data-ezsrc])
++js(set-attr, img.js-lazy-img[src^="data:image/"], src, [data-src])
++js(set-local-storage-item, /_fa_Y2FjaGVfYWRibG9ja19jaXJjdW12ZW50X3Njb3Jl$/, $remove$)
++js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWNjZXB0YWJsZV9hZHM=$/, $remove$)
++js(set-local-storage-item, /_fa_Y2FjaGVfaXNfYmxvY2tpbmdfYWRz$/, $remove$)
++js(set-local-storage-item, /_fa_bGFzdF9iZmFfYXQ=$/, $remove$)
++js(set-local-storage-item, /_fa_dXVpZA==$/, $remove$)
++js(set-local-storage-item, adshield-analytics-uuid, $remove$)
++js(trusted-click-element, .cmp-scroll-padding .cmp-info[style] #cmp-paywall #cmp-consent #cmp-btn-accept, , 2000)
++js(trusted-click-element, .cookie-overlay[style] .cookie-consent .cookie-button-group .cookie-buttons #cookie-deny, , 1000)
++js(trusted-click-element, .layout-modal[style] .cookiemanagement .middle-center .intro .text-center .cookie-refuse, , 1000)
++js(trusted-click-element, [action="https://consent.youtube.com/save"][style="display:inline;"] [name="set_eom"][value="true"] ~ .basebuttonUIModernization[value][aria-label])
++js(trusted-click-element, button[data-stellar="Secondary-button"], , 1500)
++js(trusted-click-element, button[title="Accept & Continue"], , 1000)
++js(trusted-click-element, button[title="Akzeptieren & Weiter"], , 1000)
++js(trusted-click-element, button[title^="Alle akzeptieren" i], , 1000)
++js(trusted-click-element, ytd-button-renderer.ytd-consent-bump-v2-lightbox + ytd-button-renderer.ytd-consent-bump-v2-lightbox button[style][aria-label][title], , 1000)
++js(trusted-set-cookie, brandcrowd-cookie-consent, %7B%22advertisingStorage%22%3Afalse%2C%22analyticsStorage%22%3Afalse%2C%22advertisingUserData%22%3Afalse%2C%22advertisingPersonalization%22%3Afalse%7D)
++js(trusted-set-cookie, gdpr, '{"types":["ESSENTIAL"],"platform":"web"}')
+-track.atlassian.com%2FCI0%2F$image
+-track.atlassian.com/CI0/$image
+.*%2Fwf%2Fopen%3Fupn%3D$image
+._4xQrn:style(max-height:0px)
+.aa_optoutmulti-cookie-policy:style(visibility: hidden !important;)
+.acemlna.com/Prod/link-tracker?$image
+.acemlna.com/lt.php?$image
+.acemlnb.com/Prod/link-tracker?$image
+.adthrive-video-player:style(padding-bottom: 0 !important;)
+.aozorabank.co.jp/r/*/open/$image
+.aveda.com/t/$image
+.avforums.com%2Fb%2Fimage.gif%3F$image
+.avforums.com/b/image.gif?$image
+.awstrack.me$image
+.awstrack.me/$image
+.backblaze.com/e2t/$image
+.backcountry.com/o/$image
+.background-cover
+.bahn.de/op/$image
+.benchurl.com/c/o?$image
+.birdsend.net/o/$image
+.bmetrack.com/c/$image
+.body_fixed:style(overflow: auto !important;)
+.bosch-homecomfort.com/op/$image
+.bzzgroup.cn$image
+.cb-comments__create-form:style(margin-top: 30px !important;)
+.cb-post-block-images-swiper .cb-post-block__comments .collapseable-comments__collapse:style(margin-bottom: 0px !important;)
+.cb-post-block-images-swiper .cb-post-block__comments:style(margin-bottom: 0 !important; top: -97px !important;)
+.cb-post-block-images-swiper .collapseable-comments__collapseable:style(margin-bottom: -80px !important;)
+.cb-post-block__comments:style(padding-bottom: 0 !important;)
+.cineplex.de%2Fq%2F$image
+.cineplex.de/q/$image
+.cmail19.com/t/$image
+.cmail19.com/ti/$image
+.cmail20.com/t/$image
+.cmp_gdpr:style(visibility: hidden !important;)
+.col-md-6:style(height: 150px !important;)
+.com%2F_t%2Fopen%2F$image
+.com%2Fe%2Fo%2F$image
+.com/_t/open/$image
+.com/e/o/$image
+.crsend.com/stats/$image
+.ct.sendgrid.net/$image
+.cuenote.jp%2Fc%2F*.gif$image
+.cuenote.jp/c/*.gif$image
+.customeriomail.com%2Fe%2Fo%2F$image
+.customeriomail.com/e/o/$image
+.cx-top-news
+.desktop-wrapper.has-header-banner.mt-32:style(margin-top: 8rem !important;)
+.doctolib.de/tr/op/$image
+.doubleclick.net/$image
+.e-mailnews.de%2Fi%2F$image
+.e-mailnews.de/i/$image
+.elaine-asp.de/action/view/$image
+.email.*/tr/op/$image
+.emlfiles4.com/cmpimg/t/$image
+.eurowings.com/cl.aspx?$image
+.ev-modals div[class*="ev-open-modal-notifier"], .ev-modals-notifier div[class*="ev-open-modal-notifier"]:style(visibility: hidden !important;)
+.eventim.de/op/$image
+.everestengagement.com%2Fea%2F$image
+.everestengagement.com/$image
+.everestengagement.com/ea/$image
+.eviq.org.au/CMSModules/$image
+.exponea.com%2F%2A%2Fopen$image
+.exponea.com/*/open$image
+.facebook.com/tr/$image
+.facebook.com/tr?$image
+.fc-consent-root:style(opacity: 0 !important;)
+.fiverr.com%2Fjs_event_tracking%2Fv1%2Ftrack_email_open%2F$image
+.fiverr.com/js_event_tracking/v1/track_email_open/$image
+.footbl3 > div[style="margin-right:100px;"]
+.getsendmail.com/p/$image
+.gruene.de/lists/ut.php$image
+.hubspotlinks.com%2FCto%2F$image
+.hubspotlinks.com/Cto/$image
+.informz.net/z/$image
+.intercom-mail.com/via/$image
+.inxmail-commerce.com/tracking/$image
+.io%2Fe%2Fo%2F$image
+.io/e/o/$image
+.keap-link003.com/$image
+.keap-link004.com/$image
+.keap-link005.com/$image
+.keap-link006.com/$image
+.keap-link007.com/$image
+.keap-link008.com/$image
+.keap-link009.com/$image
+.keap-link010.com/$image
+.keap-link011.com/$image
+.keap-link012.com/$image
+.keap-link013.com/$image
+.keap-link014.com/$image
+.keap-link015.com/$image
+.keap-link016.com/$image
+.klclick.com/$image
+.klclick1.com/$image
+.lassuranceretraite.fr/mk/op/$image
+.lite-page__header-navigation--with-ad:style(top: 0 !important;)
+.mail.odysee.com/o/$image
+.mailgun.patreon.com/o/$image
+.mailing.*/oo/$image
+.maillist-manage.com/click/$image
+.maillist-manage.com/clicks/$image
+.mat-drawer-container:style(overflow-x: auto !important)
+.mgmailer.binance.com/o/$image
+.microsoft.com/m/v2/d?$image
+.mjt.lu/oo/$image
+.mozilla.org/eos/$image
+.na1.hs-sales-engage.com/$image
+.net%2Fe%2Fo%2F$image
+.net/e/o/$image
+.netcologne.de/-open2/$image
+.no-scroll:style(overflow:auto!important)
+.nordvpn.com/q/$image
+.nt-foot-item[style="overflow:hidden;"]
+.online.costco.com/t?$image
+.personaclick.com/track/$image
+.pledgebox.com/t/$image
+.publi_luto_horizontal:style(max-height: 1px !important;)
+.pulse-stat.com$image
+.qc-cmp2-container:style(visibility: hidden !important;)
+.quora.com%2Fqemail%2Fmark_read%3Fct%3D$image
+.recolution.de/tools/emails/open/$image
+.recommend_header + div[style^="aspect-ratio:"]
+.redsift.com/e/o/$image
+.research-resources-summary__inner.is-sticky:style(top: 0 !important;)
+.revolut.com/q/$image
+.sahibinden.com%2Fmail%2FreadStatistics%2F$image
+.sahibinden.com%2Ftrace%2Femail%2Fread%2F$image
+.sahibinden.com/mail/readStatistics/$image
+.sahibinden.com/trace/email/read/$image
+.salesforce.com%2Fservlet%2Fservlet.ImageServer$image
+.salesforce.com%2Fservlet%2Fservlet.ImageServer%3F$image
+.salesforce.com/servlet/servlet.ImageServer$image
+.salesforce.com/servlet/servlet.ImageServer?$image
+.secureserver.net/bbimage.aspx?
+.sendcloud.net/track/$image
+.sendemail.gate.io/o/$image
+.sendibt2.com/tr/op/$image
+.sendibt3.com/tr/op/$image
+.single-story > header:style(margin-top: 40px !important)
+.smartrmail.co/o/$image
+.smtp.net/o/$image
+.southwest.com/r/$image
+.sp-message-open body:style(overflow: auto !important;)
+.sp1-brevo.net/mk/op/$image
+.sparkpostmail.com/q/$image
+.sparkpostmail2.com/q/$image
+.spmailtechnol.com/q/$image
+.spmailtechnolo.com/q/$image
+.spreadshirt.net/mo/$image
+.st-btn > img:style(margin: auto !important; display: block !important;)
+.st-btn:not(.st-first):style(display: inline-block !important; min-width: 50px !important; width: 50px !important;)
+.subredditvars-r-ublockorigin [role="dialog"]>div:style(width: auto !important)
+.subscribe-article .subscribe-truncate::before:style(background:none!important;)
+.subscribe-article .subscribe-truncate:style(max-height:unset!important;order:unset!important;)
+.subscribe-article .subscriber-hider:style(display:block!important)
+.subscribe-truncate::before:style(background:none!important)
+.subscribe-truncate:style(order:0!important;max-height:inherit!important)
+.subscriber-hider:style(display:inherit!important)
+.substack.com/o/$image
+.substackcdn.com/open?$image
+.td-animation-stack-type0-1:style(opacity:1 !important)
+.titus.de/oo/$image
+.tourlane.com/servlet/servlet.ImageServer?$image
+.tradewhy.cn//openemail/$image
+.travelperk.com/e/o/$image
+.travis-ci.com/r/$image
+.tripadvisor.com/MptUrl?$image
+.tripadvisor.com/q/$image
+.useinsider.com/pixel?$image
+.videop em[data-video-src]:style(display: block !important;)
+.vzbv.de/-open2/$image
+.warehousefashion.com/warehouse/e/$image
+.wattpad.com%2Fet%3F$image
+.wattpad.com/et?$image
+.widget-topad:style(padding-bottom: 20px !important;)
+.widget_custom_html:has(> div.textwidget > div[style^="width: 100%;"] > div.ninja-recommend-block)
+.zalando.com/images/probe.png
+.zc_top_mobil:style(display: block !important;)
+.zippingcare.com/beacon/$image
+/2x2.gif?$image
+/?h=https%3A%2F%2F*&r=&sid=*&qs=*&cid=$image,1p
+/?p=%2F*&h=https%3A%2F%2F*&r=&sid=*&qs=*&cid=$image,1p
+/?p=%2F*&h=https%3A%2F%2F*&r=&sid=*&qs=*&cid=$image,~third-party
+/?s=from_notification_service&u=$image
+/?v=eyI*sImgiOiJodHRwczovL$image,1p
+/?v=eyJoIjoiaHR0cHM6Ly9$image,1p
+/CI0/0$image
+/EmailOpenTrackLog.aspx?$image
+/Log?act=$image
+/MailIsRead?$image
+/T/OFC4/*$image
+/__ssobj/sync?$image
+/api/click/*?c=$image
+/atlas-trk.prd.msg.ss-inf.net/*$image
+/awin?awc=$image
+/beaconimages.netflix.net/*$image
+/c.gif?$image,redirect=1x1.gif,domain=web.skype.com
+/c.vialoops.com/*$image
+/c?siteID=$image,script
+/cdn-cgi/ping?$image
+/cfga/jquery.js?$image
+/check.php?t=*&rand=$image,1p
+/check.php?t=*&rand=$image,~third-party
+/click.*/q/*$image
+/click.em.nike.com/*$image
+/click.email.$image
+/click.instahyre.com/*$image
+/clicks.*/q/*$image
+/clicks.email.$image
+/client_204?$image,other,ping,script
+/cls/check.php?$image
+/cmail.bitcasino.io/*$image
+/coherentpath.link/o/*$image
+/collector.tripactions.com/*$image
+/comm.coinbase.com/*$image
+/condor.slgnt.eu/optiext/optiextension.dll?$image
+/counter/?domain=$image,1p
+/counter/?domain=$image,~third-party
+/cp.gap.com/o/*$image
+/csi_204?$image,other,ping,script
+/dedxk.r.ag.d.sendibm3.com/*$image
+/detroitchicago/dpv.gif?$image
+/e.customeriomail.com/e/o/*$image
+/e3t/Cto/RK$image
+/elink.membership.cgv.vn/vtrack$image
+/email.t.*/o/*$image
+/email/open/?pd=$image
+/email/track/*$image
+/emimp/*$image
+/engage.indeed.com/*$image
+/eo?_t=$image
+/eos/v1/*$image
+/etrack01.com/*$image
+/ga.jsp?$image
+/ga.php?$image
+/gen_204?$image,other,ping,script
+/generate_204?$image
+/go.news.fly.io/e/o/*$image
+/google-analytics-$~image,badfilter
+/gp/r.html?$image
+/gp/r.html?C=*&ref_=pe_*_open$image
+/i?aid=*&se_ac=open&$image
+/image.ng/*
+/images/*/analytics.js$domain=girlsofdesire.org
+/images/ad/*$badfilter
+/images/tingyun.js$script
+/images/top100.gif
+/img/ads/Spinner.png$image,redirect=1x1.gif
+/inbox.*/imp?$image
+/ivw/SP/*$image,script
+/jquery.js?*&rx=*&foxtail=$image,1p
+/klicks.nebenan.de/q/*$image
+/link.divenewsletter.com/img/*$image
+/link.e-mail.*/mo/*$image
+/link.email.usmagazine.com/img/*$image
+/link.news.*/mo/*$image
+/link.oneplus.com/mo$image
+/link.pbtech.co.nz/mo/*$image
+/link.thrillist.com/img/*$image
+/links1.strava.com/*$image
+/mail-stat.airdroid.com/*$image
+/mail-tracking/*$image
+/mail.thermomix.com/i/*$image
+/mailings/opened/*$image
+/maillist.*/t/*$image
+/maling.roidusat.com/t/*$image
+/marketing.wrightentgroup.com/t/*$image
+/mpss/o/*$image
+/mrliteLogger.$image,script
+/mucp.api.account.microsoft.com/m/v2/v?d=$image
+/n/images/su?info$xhr,1p
+/newsletter/log/*$image
+/newsletter/read?s=$image
+/newslink.reuters.com/img/*$image
+/ng.gif?s*&e=$image,strict3p
+/notifications.google.com/g/img/*$image
+/o.gif?mi_u=$image
+/open.aspx$image
+/open.html?$image
+/open.html?x=$image
+/open/?ot=$image
+/open?token=$image
+/opens.jscrambler.com/*$image
+/p/rp/*?mi_u=$image
+/p/rp/*?mi_u=*=&sap_id=$image
+/p13n/batch/action/*$image
+/partner/transparent_pixel-$image
+/piwik.$image,script,domain=~matomo.org|~piwik.org|~piwik.pro|~piwikpro.de
+/pixel/email/*$image
+/pixel?c=$image
+/platform-collector.viki.com/email/*$image
+/post.pinterest.com/q/*$image
+/pqt.email/o/*$image
+/prime-email-metrics/*$image
+/prod-puc-all/*/open^$image
+/pub/as?_ri_=$image
+/pv?u=$image
+/q/*~~/*$image
+/r/?id=$image
+/readReceipt/notify/?img=$image
+/redir.inxmail-commerce.com/r/*$image
+/s/eo/*$image
+/search-cookie.aspx?$image
+/sendy/t/*$image
+/senp.png?$image
+/shoutout.wix.com/*$image
+/sli.*/imp?$image
+/spacer.gif?$image,redirect=1x1.gif
+/statcounter-$~image
+/stats.cgi$image
+/stats.php?*event=$image
+/stats/c/*$image
+/t.ifly.southwest.com/*$image
+/t.paypal.com/*$image
+/t.yesware.com/t/*$image
+/tf/o/$image
+/tp.mkt.vorwerk.com/r/*$image
+/trace/link/*$image
+/trace/mail/*$image
+/track.email.$image
+/track.octanemail.in/sapi/*$image
+/track/open.php?u=$image
+/track/open/*$image
+/tracking.mail.shopee.$image
+/tracking.srv2.de/op/*$image
+/tracking.vegasgems.com/*$image
+/trk.*/open?$image
+/trk2.*/open?$image
+/trk?t=$image
+/twitter.com/scribe/ibis?$image
+/view-tracking/*$image
+/wf/open?upn=$image
+/windscribe.com/pixel?$image
+/wizrocketmail.net/r?$image
+/znsrc.com/c/*$image
+/~shared/do/~/click/?$image
+0ukok.mjt.lu$image
+30menu.com/_t/$image
+33mail.com%2Fpage%2Fopened$image
+33mail.com/page/opened$image
+://a869.$~image
+://cl.melonbooks.co.jp/c/$image
+://e.*/open?$image
+://email.*/o/$image
+://links.flickr.com/s/eo/$image
+://links.paypal.*/eos/$image
+://log.$image,1p,domain=znews.vn|zingnews.vn
+://parcel-api.delivery-status.*/open/$image
+://ply.*/?v=$image,3p
+://ply.*/?v=$image,third-party
+://sg1.wizrocketmail.net/r?e=$image
+://t.*/open^$image
+://t.order.*/r/?id=$image
+://t1.*.sbs.com.au/r/$image
+://vip.*/?pge=$image,3p
+://vip.*/?pge=$image,third-party
+://wa.*/s?$image
+://willap.jp/t?r=$image
+://www.wattpad.com/et?$image
+@@*ad2.$image,domain=sophiabushfan.net
+@@/1.gif?$image,1p,domain=kanjiku.net
+@@/2.gif?$image,1p,domain=kanjiku.net
+@@/ad_campaigns/*$image,domain=alicia-vikander.com
+@@/advertisements-$image,domain=jennifer-lawrence.com
+@@/advertisements_$image,domain=jessica-biel.at
+@@/advertising_$image,domain=timfahlbusch.com
+@@/advertisment/*$image,domain=taylorpictures.net
+@@/adverts/*$image,domain=emily-blunt.com|isla-fisher.net|islafisher.net|reese-witherspoon.org|reesewitherspoon.org
+@@/mma/?t$image,domain=newsblaze.com
+@@/signup.php?mode=async&action=show_security_code$image,1p
+@@/wp-content/plugins/popup-builder-$image,css,script,1p
+@@_advertisement_$domain=splatoonwiki.org,script,image,css
+@@_advertisement_$image,domain=jennifer-lawrence.com
+@@_advertisment.$image,domain=gorgeouspfeiffer.com
+@@||4chan.org/adv/$image,domain=boards.4channel.org
+@@||777partner.com^$image,media,domain=jetztlive.com
+@@||a.omappapi.com/users/*/images/$image,domain=app.monstercampaigns.com
+@@||akc.blueconic.net^$image,script,xhr,domain=akc.org
+@@||akinator.com.cdn.ezoic.net^$css,font,image,script,domain=akinator.com
+@@||apollo-ireland.akamaized.net/*/files/*$image,domain=otodom.pl
+@@||arthromed.de/fileadmin/*$image,1p
+@@||assets.shiropro-re.net/html/image/ad5.png
+@@||b-cdn.net^*-adap.jpg$image,domain=techxplore.com
+@@||cdn-images.the-express.com/*/dist/gdpr-$script,1p
+@@||cdn.logly.co.jp^$image,domain=asahi.com
+@@||cloudfront.net/ad-navi/$css,image,domain=kinro.ntv.co.jp
+@@||cookiebot.com^$~image,3p,domain=fastnedcharging.com
+@@||discordapp.net/external/*$image,domain=discordapp.com
+@@||dsag3w1du2cu2.cloudfront.net^$image,domain=cuevana3.la
+@@||dti.ne.jp/cgi-bin/Count.cgi?$image,1p
+@@||en25.com/*/DELOITTECENTRALEUROPELIMITED/*$image,css,script,domain=register.deloittece.com
+@@||en25.com^$image,domain=eloquaeditors.com
+@@||epimg.net^$image,domain=elpais.com
+@@||epimg.net^$image,domain=los40.com
+@@||fbcdn.net/safe_image.php?$image,domain=facebook.com|facebookcorewwwi.onion|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+@@||fls-na.amazon.*/1/batch/1/OP/$image
+@@||fmkorea.com/modules/point/icons/*$image,1p
+@@||fontspring.com/analytics/hi.gif$image,1p
+@@||freebcc.org/assets/img/ad_$image
+@@||g.doubleclick.net/pagead/images/gmob/close-circle-30x30.png$image,domain=safeframe.googlesyndication.com
+@@||go.ezodn.com^$css,image,3p,domain=neurotray.com
+@@||gstatic.com/images/branding/*/adsense$image,domain=safebrowsing.google.com
+@@||image.useinsider.com/lenovosg/$image,domain=lenovo.com
+@@||imagebam.com/assets/js/image_bootstrap.js$script,1p
+@@||images.digi.com.my/*/google_tag/*$script,1p
+@@||images.outbrainimg.com/transform/v3/$image,domain=welt.de
+@@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
+@@||img.connatix.com/*.jpg$3p,image,domain=accuweather.com
+@@||img.connatix.com/pid-$3p,image
+@@||img.kleinanzeigen.de/api/$image,1p
+@@||kcjervis.github.io/jervis/static/media/src/images/ships/banner/
+@@||kolumbus.fi/cgi-bin/counter.cgi$image,1p
+@@||laptopoutlet.co.uk/wysiwyg/asus/rise-up/popunder-$image,1p
+@@||laptopoutlet.co.uk/wysiwyg/lenovo/*_popunder_$image,1p
+@@||malwaretips.com/blogs/wp-content/uploads/*/Sponsored-Links$image,1p
+@@||maps.googleapis.com/maps/api/*$image,domain=arthromed.de
+@@||mark.isbank.com.tr^$script,image,1p
+@@||media.amlg.io^$image,domain=etonline.com
+@@||media.sailthru.com/composer/images$image,domain=link.square-enix-games.com
+@@||minnanokaigo.com/img/page/ad-navi/parts/$image,1p
+@@||myreadingmanga.info/wp-content/uploads/*.jpg$image,1p
+@@||proton.me/*/google-ads-$image,1p
+@@||publicwww.com/images/labels$image,1p
+@@||recoco.it^$image,xhr,domain=heavy-r.com|porngo.com|showbiz.cz|bodysize.org
+@@||s2.coinmarketcap.com^$image
+@@||scylla.wgplayer.com/f_webp/$image
+@@||sf.ezoiccdn.com/ezoimgfmt/$image,3p,domain=neurotray.com
+@@||sf.ezoiccdn.com/ezoimgfmt/$image,domain=kosmofoto.com
+@@||ssl-images-amazon.com/*/satelliteLib-$script,domain=audible.*
+@@||static.goolive.de/media/static/images/smileys/ad.gif$image
+@@||static.motortrader.com.my/advert/$image,domain=motortrader.com.my
+@@||thetoc.gr/Content/images/blank.gif$image,1p
+@@||tn.voyeurhit.com/contents/$image,domain=voyeurhit.tube
+@@||vbt.io^$css,image,domain=landing.davidho.sg
+@@||wlne.images.worldnow.com/ads/*.jpg?auto=web$image,domain=abc6.com
+@@||wlne.images.worldnow.com/ads/*.png$image,domain=abc6.com
+@@||wp.com/*/wp-content/plugins/master-slider/public/assets/css/blank.gif$image,domain=hearthstone-decks.net
+@@||wpfc.ml/b.gif$image,domain=uniquestream.net
+@@||ws-na.assoc-amazon.com^$image,domain=4tests.com
+[data-testid="connection-toast"]:style(margin-top: 330px !important;)
+[data-testid="cookie-policy-manage-dialog"]:style(visibility: hidden !important;)
+[id^="cmpbox"]:style(visibility: hidden !important;)
+[id^="sp_message_container"]:style(visibility: hidden !important;)
+[style^="width: 15px; height: 15px; overflow: scroll; visibility: hidden; color: rgb(calc(var(--x2)"]
+^endpoint=track^$image
+^script[onload*="error-report.com"]
+_view_pixel&$image
+aa.agkn.com$image
+ablink.hi.channel4.com$image
+ad.doubleclick.net*trackimp$image
+ae.mmstat.com%2Fae.edm.edm_open%3F$image
+ae.mmstat.com/ae.edm.edm_open?$image
+aozorabank.co.jp%2Fr%2F*%2Fopen%2F$image
+aozorabank.co.jp/r/*/open/$image
+api.mixpanel.com/track$image
+api.transferwise.com%2Fv1%2Fnotification-flow%2F$image
+api.transferwise.com/v1/notification-flow/$image
+app.businessmaking.progress.net%2Fe%2F*%3Felq%3D$image
+app.businessmaking.progress.net/e/*?elq=$image
+app.c.bloomberg.com$image
+app.frontapp.com%2Fapi%2F1%2Fnoauth%2Fcompanies%2Falternstiveto%2Fseen%2Fmsg_$image
+app.frontapp.com/api/1/noauth/companies/alternstiveto/seen/msg_$image
+app.growave.io*statimg$image
+app.outreach.io$image
+app.relateiq.com/t.png$image
+app.site123.com$image
+athleticsirelandmerchandise.com/_t/open/$image
+atlassian-trk.prd.msg.ss-inf.net$image
+bl-1.com$image
+bmo.mercari.jp/?s$image
+body > div[style*="z-index: 2147483647"]:has(a[href="https://nytimes.com/cookie-policy/"])
+body > div[style="height:480px;"]
+body.appconsent_noscroll:style(overflow: auto !important;)
+body.body-load:style(overflow: auto !important;)
+body.didomi-popup-open:style(overflow: auto !important;)
+body.noImages .content img:style(display: inline-block !important)
+body.overflowHidden:style(overflow: auto !important)
+body.tac-modal-open:style(overflow: auto !important;)
+body:has(#cmp_consent_wall):style(overflow: auto !important;)
+body:has(#mms-consent-portal-container):style(overflow: auto !important;)
+body:has(.cmpboxinner):style(overflow: auto !important;)
+body:style(background-image:none !important)
+body:style(opacity: 1 !important;)
+body:style(overflow: auto !important; position: unset !important;)
+body:style(overflow: auto !important;)
+body[style*="display: none"]:remove-attr(style)
+body[style="overflow: hidden;"]:style(overflow: auto !important;)
+bolt.im/t/$image
+c.crm-em.com$image
+c.groovehq.com%2F*.gif$image
+c.groovehq.com/*.gif$image
+cdn.shopify.com%2Fshopifycloud%2Fshopify%2Fassets%2Fthemes_support%2Fnotifications%2Fspacer-$image
+cdn.shopify.com/shopifycloud/shopify/assets/themes_support/notifications/spacer-$image
+cl.melonbooks.co.jp$image
+cl.mos.jp%2Fq%2F$image
+cl.mos.jp/q/$image
+click.*.mc.philips.com$image
+click.contact.kamalaharris.com$image
+click.discord.com$image
+click.e.change.org$image
+click.email.ancestry.com$image
+click.email.deadline.com$image
+click.email.vimeo.com$image
+click.emails.paypal.com$image
+click.icptrack.com/icp/$image
+click.instahyre.com$image
+click.mailersend.net$image
+click.official.infomaniak.com/o/$image
+click.redditmail.com$image
+click.revolut.com$image
+click.transactional.agoda.com$image
+clicks.hungryroot.com$image
+clicks.meetup.com$image
+clicks.mlsend.com$image
+clicks.mlsend2.com$image
+close.io/email_opened$image
+cmail1.com/t$image
+cnt.mail.netbk.co.jp$image
+contactmonkey.com/api/v1/tracker$image
+cp.edison.tech%2Fapi%2Fmailer%2Fm%2Fimg%2F$image
+cp.edison.tech/api/mailer/m/img/$image
+ct.klclick.com$image
+ct.sendgrid.net$image
+ctrk.klclick2.com%2Fo%2F$image
+ctrk.klclick2.com/o/$image
+delighted.com%2Fe%2F$image
+delighted.com/e/$image
+demdex.net%2Fevent%3Fd_event%3D$image
+demdex.net%2Fevent%3Fd_src%3D$image
+demdex.net/event?d_event=$image
+demdex.net/event?d_src=$image
+discord.com%2Fapi%2Fscience%2F*.gif%3Fproperties%3D$image
+discord.com/api/science/*.gif?properties=$image
+div[data-widget="plista_widget_belowArticle_desktop_nocss"]+div[class^="_"] > svg
+div[data-widget="plista_widget_webApp_mobile_nocss"]+div[class^="_"] > svg
+div[id^="google_ads_iframe_"]:style(max-height: 1px !important;)
+div[role="dialog"]:has(button[data-tracking-name="cookie-preferences-mloi-initial-opt-out"]):style(visibility: hidden !important;)
+div[style]:has(> script[src^="https://rranking3.ziyu.net/"])
+div[style^="margin-bottom:150px;"][style*="padding-right:2em;"]
+dominos.*%2Fo%2Fo.gif$image
+dominos.*/o/o.gif$image
+dripemail2$image
+e-bedwettingstore.com$image
+e.customeriomail.com$image
+e.dhgate.com%2Fa%2F*%2Fspacer.gif$image
+e.dhgate.com/a/*/spacer.gif$image
+e.email.forbes.com$image
+e.emails.huffpost.com/o/p/$image
+e.mail.cnn.com$image
+ebayadservices.com%2Fmarketingtracking%2Fv1%2Fimpression%3F$image
+ebayadservices.com/marketingtracking/v1/impression?$image
+ecmweb.com%2Fimages%2Fshim.png$image
+ecmweb.com/images/shim.png$image
+egbgaig.r.*.d.sendibt$image
+elink.clickdimensions.com$image
+email-analytics.meetup.com%2F$image
+email-analytics.meetup.com/$image
+email-link.adtidy.org%2Fopen%2F$image
+email-link.adtidy.org/open/$image
+email-links.buffer.com$image
+email.123formbuilder.com$image
+email.aol.net$image
+email.azurareborn.com$image
+email.bitbank.cc$image
+email.budovideos.com$image
+email.cloud2.secureclick.net$image
+email.feedrabbit.com$image
+email.mail2.smartrmail.co$image
+email.mailgun.patreon.com$image
+email.mg-d1.substack.com$image
+email.mgtp01.squarespace-mail.com$image
+email.mixmax.com/e/o$image
+email.nirandfar.com$image
+email.nirandfar.com*link-tracker$image
+email.send.aliyana.in$image
+email.updates.patreon.com$image
+email.wetransfer.com$image
+email.win.donaldjtrump.com$image
+emailcontent.rockstargames.com$image
+emaillabs.info.pl%2Fopen%2F%3Fot%3D$image
+emaillabs.info.pl/open/?ot=$image
+emea.focusvision.com%2Ftracker%2F$image
+emea.focusvision.com/tracker/$image
+emltrk.com$image
+eotrx.substackcdn.com$image
+esputnik.com$image
+events.jotform.com*email$image
+fdske.com%2Feo%2F$image
+fdske.com/eo/$image
+feedback.send.yandex.ru%2Fpx%2F$image
+feedback.send.yandex.ru/px/$image
+files.fm%2Fl%2Femail-pix$image
+files.fm/l/email-pix$image
+filetransfer.io*pixel$image
+flask.us.nextdoor.com$image
+gdwc-recommendations.is-hidden:style(display: block !important;)
+geteml.com$image
+github.com%2Fnotifications%2Fbeacon%2F$image
+github.com/notifications/beacon/$image
+gm.mmstat.com$image
+go.lanet.click$image
+go.rjmetrics.com$image
+go.smartinsights.com*gif$image
+go.toutapp.com$image
+hitkino.org#?#td[valign="top"] > table.white_text > tbody > tr:has(> td[background] > b:contains(Статистика))
+hitkino.org#?#td[valign="top"] > table.white_text > tbody > tr:has(> td[background] > b:contains(Статистика)) + tr
+html > body:style(margin-top: 45px !important;)
+html,body:style(overflow: auto !important)
+html.sp-message-open > body:style(position: unset !important; margin-top: 0 !important; overflow: visible !important)
+html.sp-message-open > body:style(position: unset !important; overflow: unset !important)
+html.sp-message-open > body:style(position: unset !important; overflow: unset !important; margin-top: 0 !important)
+html.sp-message-open:style(overflow: auto !important; width: initial !important)
+html.sp-message-open:style(width: initial !important)
+html:style(overflow: auto !important;)
+html:style(visibility: visible !important;)
+html[style="overflow: hidden;"]:not(:has(#cmp_consent_wall)):style(overflow: auto !important)
+hubspotlinks.com$image
+i.groovehq.com%2F*.comment*%40groovehq.com.gif$image
+i.groovehq.com/*.comment*@groovehq.com.gif$image
+i.hh.ru%2Fmailing%2F$image
+i.hh.ru/mailing/$image
+iframe[id^="google_ads_iframe"]:style(max-height: 1px !important;)
+images.harmony.epsilon.com%2FContentHandler%2Fimages%3Fid%3D$image
+images.harmony.epsilon.com/ContentHandler/images?id=$image
+img.promio-connect.com$image
+img.srv2.de%2Fassets%2Fbm%2Fimh%2F*.gif%3Futm_$image
+img.srv2.de/assets/bm/imh/*.gif?utm_$image
+img[style="width: 88px; height: 31px; border: 0"]
+info.kansaimiraibank.co.jp%2Fc%*.gif$image
+info.kansaimiraibank.co.jp/c/*.gif$image
+infusionsoft.com/app/emailOpened$image
+intercom-mail-100.com/o$image
+intercom-mail.com/q/$image
+intercom-mail.com/via/o?$image
+jump.refinery29.com$image
+launchbit.com/taz-pixel$image
+liens.newsletters.jeuxvideo.com%2Fm%2Fopening%2F$image
+liens.newsletters.jeuxvideo.com/m/opening/$image
+link.cnbc.com$image
+link.dissh.com%2Fmo%2F$image
+link.dissh.com/mo/$image
+link.gmapp*.net$image
+link.mail.beehiiv.com%2Fss%2F*.gif$image
+link.mail.beehiiv.com/ss/*.gif$image
+link.mail.bloombergbusiness.com$image
+link.nzz.ch%2Fv1%2Femailopen%3F$image
+link.nzz.ch/v1/emailopen?$image
+link.patch.com%2Fimg%2F*.gif$image
+link.patch.com/img/*.gif$image
+link.posteml.com$image
+link.seguno-mail.com$image
+link.theatlantic.com$image
+link.theskimm.com$image
+link.theverge.com$image
+link.thirdlove.com$image
+link.vox.com$image
+linkedin.com*emimp$image
+links.*.com/e/eo?_t=$image
+links.email.digg.com$image
+links.kahoot.com$image
+links.newsletter.fortune.com$image
+links.signup.com$image
+links.skillbox.ru%2Fo%2F$image
+links.skillbox.ru/o/$image
+links.theskimm.com$image
+links1.*.com/q/*$image
+links1.pawns.app%2Fq%2F$image
+links1.pawns.app/q/$image
+list-manage.com*track$image
+lmqmpm.clicks.mlsend.com$image
+log.bntrace.com$image
+lurl.soundcloud.com%2Fss%2Fo%2F$image
+lurl.soundcloud.com/ss/o/$image
+mail-count.matsui.co.jp$image
+mail.nationalgeographic.com$image
+mailchimp.com%2Fmctx%2Fopens$image
+mailchimp.com/mctx/opens$image
+mailfoogae.appspot.com$image
+mailing.pbank.com.ua$image
+mailmag.hhcross.hankyu-hanshin.jp%2Fc%2F*.gif$image
+mailmag.hhcross.hankyu-hanshin.jp/c/*.gif$image
+mailstat.us/tr$image
+mailtrack.io/trace/$image
+main div[class][style^="top:"]:has(> div > fbs-video[ad-unit-path])
+main div[class][style^="top:"]:has-text(FORBES’ FEATURED Video)
+makeup.com.ua%2Famazon%2Fopened%2F$image
+makeup.com.ua/amazon/opened/$image
+manage.turing.pe%2Fanalytics%2Fopen%2F$image
+manage.turing.pe/analytics/open/$image
+mandrillapp.com/track$image
+mandrillapp.com/track/$image
+marketing.1password.co%2Ftrk%3Ft$image
+marketing.1password.co/trk?t$image
+medallia.*%2F%3F*%26invite-opened%3Dyes$image
+medallia.*/?*&invite-opened=yes$image
+mg.mail.notion.so%2F$image
+mg.mail.notion.so/$image
+mjt.lu$image
+mltrk.io/pixel$image
+mpse.jp%2F*%2Frw%2Fbeacon_$image
+mpse.jp/*/rw/beacon_$image
+mx11.tildacdn.com^*img/pixel/$image
+myanimelist.net%2Fstatic%2Flogging.gif%3F$image
+myanimelist.net/pixel?$image
+myanimelist.net/static/logging.gif?$image
+nethunt.com/api/v1/track/email/$image
+news.samsung.com%2Fus%2F%3Fnoti%3D$image
+news.samsung.com/us/?noti=$image
+newsletter.adnz.co%2F$image
+newsletter.adnz.co/$image
+newsletter.goodgoodgood.co$image
+nnw.soundestlink.com$image
+node.bolt.eu*pixel$image
+notices.rei.com$image
+nyb.soundestlink.com*track$image
+omeclk.com$image
+omni.soundestlink.com$image
+open.convertkit-mail*.com$image
+openedlog.smart-bdash.com%2Fopened%3Faid%3D$image
+openedlog.smart-bdash.com/opened?aid=$image
+openrate.aweber.com$image
+outpostemail.notify.readtangle.com$image
+outrch.com/api/mailings/opened$image
+p.liadm.com/imp?s=$image
+pgportal.gov.in#@#.ad_image
+pianoencyclopedia.com%2Fen%2Femail%2Fimages%2F*%2Fpix.gif$image
+pianoencyclopedia.com/en/email/images/*/pix.gif$image
+pinterest.com%2Femail%2Fopen%2F$image
+pinterest.com%2Femail%2Ftracking.gif$image
+pinterest.com/email/open/$image
+pinterest.com/email/tracking.gif$image
+pixel.monitor*.returnpath.net$image
+pixel.patch.com%2F$image
+polymail.io/v2/z$image
+post.pinterestmail.com%2Fo%2F$image
+post.pinterestmail.com/o/$image
+preview.ab0.jp%2Fstatic%2Fstarbucks%2Fma%2F*%2Frewards_img%2F*scenario*img-*.gif$image
+preview.ab0.jp/static/starbucks/ma/*/rewards_img/*scenario*img-*.gif$image
+probe.zalando.com$image
+production.k-trk.com$image
+pstmrk.it/open$image
+public-cis.exponea.com$image
+r.a.d.sendibm1.com%2Fmk%2Fop%2F$image
+r.a.d.sendibm1.com/mk/op/$image
+r.mail.wowvegas.com%2Ftr%2Fop%2F$image
+r.mail.wowvegas.com/tr/op/$image
+r.ml.reverso.net%2Ftr%2Fop$image
+r.ml.reverso.net/tr/op$image
+r.superhuman.com$image
+rd.remove.bg%2FCI0%2F$image
+rd.remove.bg/CI0/$image
+referrer.disqus.com$image
+rs-stripe.vox.com$image
+s-pt.jp%2Fmail%2Finfo%2F*%2Fimg%2F_.gif$image
+s-pt.jp/mail/info/*/img/_.gif$image
+s2.washingtonpost.com/beacon/$image
+sahibinden.com%2Fmail%2FreadStatistics%2F$image
+sahibinden.com%2Ftrace%2Femail%2Fread%2F$image
+sahibinden.com/mail/readStatistics/$image
+sahibinden.com/trace/email/read/$image
+salesforceiq.com/t.png$image
+sbs-mkt-stage1-res.adobe-campaign.com$image
+sealfit.ontraport.net%2Fo%3F$image
+sealfit.ontraport.net/o?$image
+section#home > #hero.pinned:style(position: absolute !important;)
+sendfox.com%2Ftrk%2Fopen%2F$image
+sendfox.com/trk/open/$image
+sendpul.se*8080$image
+sendpul.se*image$image
+sg1.wizrocketmail.net%2Fr%3Fe%3D$image
+sg1.wizrocketmail.net/r?e=$image
+shop.yushakobo.jp%2F_t%2Fopen%2F$image
+shop.yushakobo.jp/_t/open/$image
+shutterstockmail.com/pub/as?_ri_=$image
+signup.com$image
+site123.com*openedMessages.php$image
+sli.*.com%2Fimp%3Fs%3D$image
+sli.*.com/imp?s=$image
+sli.fortune.com$image
+sli.thedailybeast.com$image
+snl.patch.com%2Fimp%3F$image
+snl.patch.com/imp?$image
+socauth.privatbank.ua*pixel.php$image
+sp.e2.theathletic.com%2Fq%2F$image
+sp.e2.theathletic.com/q/$image
+sp.plex.tv%2Fq%2F$image
+sp.plex.tv/q/$image
+spmailtechnol.com$image
+static.adsugar.ch%2Fimg%3Ford%3D$image
+static.adsugar.ch/img?ord=$image
+support-*.sandisk.com%2Frd%2F*.gif$image
+support-*.sandisk.com/rd/*.gif$image
+support-*.wd.com%2Frd%2F*.gif$image
+support-*.wd.com/rd/*.gif$image
+support.yahoo-net.jp%2Fformly%2Fservlet%2Fservlet.ImageServer$image
+support.yahoo-net.jp/formly/servlet/servlet.ImageServer$image
+surveys.zendesk.com%2Fsubscription%2Fwatermark.gif$image
+surveys.zendesk.com/subscription/watermark.gif$image
+t.gutefrage.net%2Fop%2F$image
+t.gutefrage.net/op/$image
+t.hsms06.com$image
+t.hubspotemail.net/e2t/o$image
+t.mp*.tripadvisor.com$image
+t.senal$image
+t.sidekickopen$image
+t.signaux$image
+t.signauxtrois.com$image
+t.sigopn$image
+t1.mp1.tripadvisor.com$image
+thebell.io%2Fadmin%2Fimages%2Femail%2Fblank.gif$image
+thebell.io/admin/images/email/blank.gif$image
+tinyletterapp.com$image
+tlr.stripocdn.email$image
+tlr.stripocdn.email%2Fcontent%2Fguids%2F$image
+tlr.stripocdn.email/content/guids/$image
+track.canva.com$image
+track.customer.io$image
+track.email.stackcommerce.com/q/$image
+track.mixmax.com/api$image
+track.msg.fortune.com$image
+track.team.kahoot.com$image
+trackedlink.net$image
+tracking.cirrusinsight.com$image
+tracking.newsletter.m6.fr$image
+tracking.srv2.de$image
+trcksp.cordial.io$image
+tripadvisor.com%2FMptUrl%3Fp%3D$image
+tripadvisor.com%2Fimg%2Fcdsi%2Fpartner%2Ftransparent_pixel$image
+tripadvisor.com/MptUrl?p=$image
+tripadvisor.com/img/cdsi/partner/transparent_pixel$image
+tucsontopia.com/?mailpoet_router$image
+twitter.com%2Fscribe%2Fibis%3Ft%3D$image
+twitter.com/scribe/ibis?t=$image
+u.pcloud.com*trackmail$image
+ul[class^="cluster__stories"] > li[class^="cluster__cluster-basic"][class*="cluster__column-left"]:style(margin-left: 17.0418006431vw !important;)
+ul[class^="cluster__stories"] > li[class^="cluster__cluster-hub"][class*="cluster__column-middle"][class*="cluster__break-after"]:style(margin-bottom: 100px !important;)
+unisender.solar-staff.com%2F*%2Fgo1_read_tracker%2F$image
+unisender.solar-staff.com/*/go1_read_tracker/$image
+uschovna.cz#@#body:style(background:none !important;)
+via.intercom.io/o$image
+video#diziyou_html5_api:style(display: initial !important;)
+voz.vn%2Fb%2Fimage.gif%3Fp%3D$image
+voz.vn/b/image.gif?p=$image
+wattpad.com/et?c=$image
+web.frontapp.com/api$image
+welovepg.polymail.io$image
+whiteclouddrive.com$image
+willap.jp%2Ft%3Fr=$image
+willap.jp/t?r=$image
+wizrocketmail.net$image
+yahoocs.my.salesforce.com%2Fs.gif$image
+yahoocs.my.salesforce.com/s.gif$image
+yamm-track.appspot$image
+|https://$xhr,3p,domain=imagefap.com,badfilter
+||2cnt.net/j0=$image,domain=s4c.cymru
+||ab.blogs.es/abtest.png^$image,3p,domain=xataka.com|trendencias.com,redirect=1x1.gif,important
+||ad-link.jp/sugoroku64/static/img/promotion_5/spacer.gif$image,redirect=1x1.gif,domain=sugoroku64.ad-link.jp
+||adyen.com/checkoutshopper/images/analytics.png?
+||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
+||aktion.esprit-club.com^$image
+||alex.leonard.ie/misc-images/transparent.png
+||amazon.com/empty.gif?$image
+||amazonaws.com/frame-image-br/bg.png?
+||amazonaws.com/prod/main?ref=$image,third-party
+||api.ffm.to/sl/e/$image
+||api.stopad.io/link/*/pixel$image,1p,redirect=1x1.gif
+||app.pendo.io/data/$image
+||appliedsemantics.com/images/x.gif
+||atconnect.npo.nl/h?s=$image
+||avtoradio.ru/design/images/site-design/top100.gif
+||aweber.com/form/displays.htm?$image
+||baidu.com/*/track.gif?$image,redirect=1x1-transparent.gif
+||baidu.com/*/track.gif?$image,redirect=1x1.gif,important,domain=jump2.bdimg.com
+||beaconimages.netflix.net^$image
+||beget.com/p$image,third-party
+||bestcontactform.com^$~image,third-party
+||blogroll.livedoor.net/click_js?$image
+||bnr.nl/pixel/$image
+||bobparsons.com/image.aspx?
+||bongacams*.com/track?$document,image
+||bucklemail.com/a/$image
+||c.delivery.consentmanager.net/delivery/$image
+||c.paypal.com^$image,script
+||c6.paypal.com^$image
+||californiatimes.com/privacy/$image
+||cc.loginfra.com/cc?a=$image
+||cc.naver.com/cc$image,redirect=2x2-transparent.png
+||cdn.shopify.com/*assets/pixel.gif$image,redirect=1x1.gif,domain=metrovac.com,important
+||cdn.stamped.io/cdn/images/pixel.png
+||cerebro.edna.yahoo.net^$image
+||cgeimage.commutil.kr/jscomm/*/logger.js
+||checkoutshopper-live.adyen.com/checkoutshopper/images/analytics.png?
+||cimage.adobe.com^
+||click.aliexpress.com^$image
+||click.aliexpress.com^$image,script
+||clickiocdn.com/utr/$image
+||clustrmaps.com^$image,redirect-rule=1x1.gif
+||clustrmaps.com^$image,redirect=1x1-transparent.gif,third-party
+||clustrmaps.com^$image,redirect=32x32.png,domain=motls.blogspot.com
+||cmail19.com/t/$image,third-party
+||cmexota.ru/templates/default/images/livinternet.png
+||comms.thewhiskyexchange.com^$image
+||community.checkpoint.com/beacon/$image
+||custom.search.yahoo.co.jp/images/window/*.gif
+||d.rcmd.jp^$image
+||d2cmedia.ca^$~image,~font,~css
+||d347cldnsmtg5x.cloudfront.net/util/1x1.gif$image,domain=aplaceforeverything.co.uk,redirect=1x1.gif,important
+||dan-ball.jp/*.gif$image,redirect-rule=1x1.gif
+||doubleclick.net^$image,third-party
+||downloads-photoshop.ru/templates/dp/images/count.png
+||downloads-photoshop.ru/templates/dp/images/count_top.png
+||dzen.ru/api/*/launcher/stats/$xmlhttprequest,image
+||ebay.com^*/customer_image_service?
+||edp24.co.uk/resources/images/pixel/
+||elpais.com/t.gif$image,1p,redirect=1x1.gif,important
+||epimg.net/t.gif$image,redirect-rule=1x1.gif,domain=as.com
+||error.fc2.com/blog/$image
+||eventful.com/apps/generic/$image,third-party
+||evt.collarity.com^$image
+||fmkorea.com/_call/background_nickname.php
+||forocoches.com/image/nada.gif
+||frog.wix.com/da-client$image,redirect=1x1.gif,domain=deviantart.com
+||frog.wix.com^$image,ping,xmlhttprequest
+||gem.com/api/o/$image,third-party
+||getkudos.me/a?$image
+||gettyimages.*/pulse$ping
+||girlsofdesire.org/images/girlsofdesire.org/analytics.js
+||go.techtarget.com^$image,xmlhttprequest
+||go.theregister.com^$image
+||google.com/images/phd/gfl.gif
+||google.com/images/phd/px.gif
+||googleusercontent.com/*/wf/open?upn=$image
+||gubagoo.io/c/$image
+||handelsblatt.com/images/blank/*/1-formatOriginal.gif
+||hao123.com/images/track.gif
+||herz-fuer-tiere.de/assets/themes/default/images/ad.gif
+||herz-fuer-tiere.de/assets/themes/default/images/sunshine.gif
+||hindustantimes.com/res/images/one-pixel.png
+||hits.informer.com/log.php$image,domain=funny.pho.to,redirect=1x1.gif
+||hosteagle.club/t/$image
+||house.comikey.com/unw.gif?$image,1p
+||icbdr.com/images/pixel.gif
+||image.cauly.co.kr/script/caulytracker_async.js
+||image.ruliweb.com/view/log
+||image.yodobashi.com/catalog/*/common/js/onetag.js
+||image.yodobashi.com/catalog/*/common/js/taglog/
+||imagefap.com/images/yes.gif?
+||imagehost.pics^$all
+||imagehub.fun^$all
+||images-amazon.com^*/ClientSideMetricsAUIJavascript*.js
+||images.hepsiburada.net/*/onetrust/
+||images.hepsiburada.net/*/web-vitals.*.js
+||images.hepsiburada.net/storefront/storefront/www/assets/scripts/webtrekk/
+||images.hepsiburada.net/webtrekk/webtrekk.js
+||images.search.yahoo.com/viewer;_ylt=
+||images.tcdn.com.br/commerce/assets/store/js/dist/facebook-conversion.js?pixel=
+||imageshack.us^*/thpix.gif
+||imagetwistcams.com/pixel/
+||imgfarm.com/images/nocache/tr/*.gif?$image
+||imgfarm.com/images/trk/myexcitetr.gif?
+||imgssl.constantcontact.com/letters/images/sys/S.gif
+||imgur.com/imageview.gif?
+||klarnaservices.com/?a=$image
+||klarnaservices.com^$image,third-party
+||kloth.net/images/pixel.gif
+||lamycosphere.com/cdn/shop/*/assets/pixel.gif$image,1p,redirect=1x1.gif,important
+||lebigdata.fr/wp-content/uploads/*/cote.png$image
+||link.cosmopolitan.com^$image
+||link.messaging.usnews.com^$image
+||link.myjewishpage.com^$image
+||link.realself.com^$image
+||link2.strawberrynet.com^$image
+||links.strava.com^$image
+||livehelpnow.net/lhn/handler/$image
+||materiel.net/r/$image
+||media-imdb.com/images/*/imdbads/js/beacon-$script
+||moco.yukata.dev/get/$image,third-party
+||motika.com.mk/reklam$image
+||mps.nbcuni.com/images/MPS-STATISTIC-REPORTING.png
+||mrtg.emailpartners.net^$image,third-party
+||msg-intl.qy.net^$image
+||msg.video.qiyi.com^$image
+||mtcs.nhk.or.jp/b/ss/$image
+||mtsa.com.my/mtcs.php/pageview/track^$image
+||murdoog.com^*/Pixel/$image
+||myreadingmanga.info/wp-content/uploads/*.gif$image
+||natureetdecouvertes.com^$1p,image,redirect-rule=2x2.png
+||news.banggood.com/mo/$image,third-party
+||news38.de/resources/*$image,1p,redirect-rule=1x1.gif
+||newsletters.nationalgeographic.com^$image,third-party
+||o.techmaniak.pl^$image
+||ocmail1.in/rtw/$image
+||onelink.me^$image,script,third-party
+||onlinepngtools.com/images/examples-onlinepngtools/single-opaque-pixel.png
+||pautina.net/images/$third-party
+||paypal.com/v1/r/d/b/$image
+||petametrics.com^$image,third-party,xmlhttprequest
+||play.tv3.lt/static/scripts/trackdb/events.gif$image,redirect=1x1-transparent.gif
+||prlog.ru/images/counter/$third-party
+||providesupport.com/cmd/$image
+||px.moatads.com/pixel.gif$image,domain=abcya.com,redirect=1x1.gif
+||pxf.io^$image,script,third-party
+||q.stripe.com/?domain=$image
+||queer.de/a?$image
+||r.bh.d.sendibt3.com/tr/$image
+||r.chip.de/images/pic.gif?
+||realitytvworld.com/images/pixel.gif
+||reanimator.net/informer-images/
+||reddit.com/static/pixel.png$image
+||rfksrv.com/rfkj/$image
+||rover.ebay.*/roverclk/*?trknvp=$image
+||rover.ebay.*/roverimp/*&trknvp=$image
+||rover.ebay.*/roversync/?site=$image
+||rs.mail.ru/*.gif$image,redirect=1x1-transparent.gif,domain=my.mail.ru
+||rs6.net^$image,script,third-party
+||rudaw.net/images/$image,1p,redirect-rule=1x1.gif,important
+||rumble.com/l/$image
+||s.yimg.jp/images/listing/tool/cv/ytag.js
+||sailthru.com/horizon/track?*http$image,domain=bookriot.com
+||scout.us2.salesloft.com^$image
+||securemetrics.apple.com/b/ss/*maps$image,important
+||secureprovide1.com/*=tracking$image
+||sgimage.netmarble.com/js/gtm/
+||shein.com/image/cookieId.html
+||skk.moe/*.js?$image
+||slashdot.org/images/js.gif
+||slidedeck.com^$image,third-party
+||snva.jp/api/bcon/$image
+||spectrum.gettyimages.com^
+||sport.ua/pixel/$image
+||ssl-images-amazon.com/images/I/31YXrY93hfL.js$domain=imdb.com
+||static.eclick.vn^$image,redirect=1x1.gif
+||suggest.sso.dzen.ru/clck/$image,ping
+||super.cz/*/jquery?$image
+||systeme.io^$~image,3p,badfilter
+||t.paypal.com^$image
+||teltarif.de/ttt.go?$image
+||th.bing.com/th/*&riu=$image,third-party
+||tlctv.com.tr/assets/default/images/pixel.gif
+||tms.delta.com/privacy/$image
+||topshop.com/wcsstore/ConsumerDirectStorefrontAssetStore/images/trans_pixel.gif
+||torimochi.line-apps.com^$image,redirect=1x1-transparent.gif
+||torimochi.line-apps.com^$image,redirect=1x1.gif
+||trib.al^$image,third-party
+||trk.mail.ru^$image,ping
+||tv3play.skaties.lv/static/scripts/trackdb/events.gif$image,redirect=1x1-transparent.gif
+||tweakers.net^*&p=$image
+||up.clickiocdn.com/*/log/$image
+||urldefense.com^$image,third-party
+||useinsider.com^$image,redirect-rule=2x2.png,domain=akbank.com
+||usercentrics.eu/session/$image
+||validate.onecount.net^$image
+||veeseo.com^*/view/$image
+||video.golem.de/download/*&cpxl=$image
+||viralize.tv/t-bid-done/$image
+||vivociti.com/images/$third-party
+||vk.com/ads_light.php$image
+||walmartimages.com/beacon/beacon.js
+||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
+||wc.yahoodns.net^$image
+||wc4.net^$image,third-party
+||web.telemetric.dk/t/$image
+||wellsfargo.com/assets/images/global/s.gif?log=
+||widgetserver.com^*/image.gif?
+||wintorrents.ru/templates/WinTorentsNew/images/gp.jpg
+||wp.com/i/mu.gif$image
+||wpfc.ml^$image,redirect-rule=1x1.gif,domain=thestoryexchange.org
+||wpfc.ml^$image,redirect=1x1.gif,domain=ht-instruments.de
+||yandex.ru/an/$image
+||yes24.com/sysimage/Contents/Scripts/c/logging/
+||yes24.com/sysimage/Contents/Scripts/p/logging/
+||youronlinechoices.com/css/images/pixel.png
+||youronlinechoices.com/images/pixel.png
+||yvesrocher.com.tr/images/__utm.gif^
+||yvesrocher.com.tr/images/avenseo/tr_TR/avenseo-uniq.min.js
+||yvesrocher.com.tr/images/js/coremetrics.js
+||yvesrocher.com.tr/images/js/tracking^
+||zillowstatic.com/contact-pixel/$image,domain=zillow.com

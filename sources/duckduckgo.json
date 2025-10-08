@@ -1,0 +1,30 @@
+{
+  "mixpanel.com": {
+    "domain": "mixpanel.com",
+    "owner": {
+      "name": "Mixpanel"
+    },
+    "categories": ["Analytics"]
+  },
+  "mailchimp.com": {
+    "domain": "mailchimp.com", 
+    "owner": {
+      "name": "Mailchimp"
+    },
+    "categories": ["Email"]
+  },
+  "hubspot.com": {
+    "domain": "hubspot.com",
+    "owner": {
+      "name": "HubSpot"
+    },
+    "categories": ["Email", "Analytics"]
+  },
+  "intercom.io": {
+    "domain": "intercom.io",
+    "owner": {
+      "name": "Intercom"
+    },
+    "categories": ["Email"]
+  }
+}

@@ -1,0 +1,27 @@
+Return-Path: <campaigns@mailchimp.com>
+From: "MailChimp Campaign" <campaigns@mailchimp.com>
+To: user@example.com
+Subject: Campaign Update
+Date: Tue, 08 Oct 2025 11:30:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Campaign Update</h1>
+    
+    <p>Check out our latest updates!</p>
+    
+    <!-- Real tracking patterns from MailTrackerBlocker list -->
+    <img src="https://track.flexlinks.com/a.ashx?tc=123456&id=user123" width="1" height="1">
+    <img src="https://cc.zdnet.com/v1/otc/pixel.gif?campaign=newsletter" width="1" height="1" style="display:none;">
+    <img src="https://www.pntrac.com/t/track?id=campaign123" style="width:1px;height:1px;">
+    
+    <p>Click here: <a href="https://www.dpbolvw.net/click-newsletter-123">Visit Site</a></p>
+    
+    <!-- More real trackers -->
+    <img src="https://howl.me/link/?id=newsletter456" width="1" height="1" border="0">
+    <img src="https://visit.ws/visit/pixel.gif?campaign=email123" style="display:block;width:1px;height:1px;">
+</body>
+</html>

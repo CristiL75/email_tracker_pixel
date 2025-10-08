@@ -1,0 +1,37 @@
+Subject: Test Email cu Tracking Pixels
+From: test@example.com
+To: recipient@example.com
+Content-Type: text/html; charset=utf-8
+
+<html>
+<head>
+    <title>Email Test</title>
+</head>
+<body>
+    <h1>Salut!</h1>
+    <p>Acesta este un email de test pentru detectarea tracking pixels.</p>
+    
+    <!-- Tracking pixel de la MailChimp -->
+    <img src="https://track.mailchimp.com/open.gif?u=abc123&id=def456" width="1" height="1" style="display:none;">
+    
+    <!-- Tracking pixel de la un tracker cunoscut -->
+    <img src="https://mltrk.io/pixel/xyz789" width="1" height="1" alt="">
+    
+    <!-- Pixel cu parametri suspecți -->
+    <img src="https://analytics.suspicious.com/track.png?user=victim@email.com&campaign=phishing&open=true&click=1" style="width:1px;height:1px;border:0;">
+    
+    <!-- Pixel transparent -->
+    <img src="https://stats.example.com/beacon.gif" width="1" height="1" style="visibility:hidden;">
+    
+    <p>Conținutul normal al email-ului continua aici...</p>
+    <p>Aceste tracking pixels sunt folosiți pentru:</p>
+    <ul>
+        <li>Confirmarea că email-ul a fost deschis</li>
+        <li>Colectarea de informații despre destinatar</li>
+        <li>Tracking-ul comportamentului utilizatorului</li>
+        <li>Posibile activități de phishing</li>
+    </ul>
+    
+    <p>Scriptul nostru detectează automat acești tracking pixels!</p>
+</body>
+</html>
